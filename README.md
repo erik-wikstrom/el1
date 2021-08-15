@@ -1,2 +1,2 @@
-# el1
-E-lang 1
+# E-Lang 1
+A first attempt att writing a language and a compiler
